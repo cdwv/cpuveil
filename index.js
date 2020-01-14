@@ -6,7 +6,3 @@ var cpus_ = os.cpus;
 os.cpus = function() {
     return cpus_().slice(0, display_cpus);
 }
-
-console.log(os.cpus().length);
-
-

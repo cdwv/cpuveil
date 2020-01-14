@@ -1,6 +1,6 @@
 {
   "name": "cpuveil",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Simple utility helper to limit displayed CPUs in node",
   "main": "index.js",
   "scripts": {
