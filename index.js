@@ -1,6 +1,6 @@
 var os = require('os');
 var real_cpus = os.cpus().length;
-var display_cpus = process.env.NODE_CPUS || real_cpus;
+var display_cpus = parseInt(process.env.NODE_CPUS) || real_cpus;
 
 var cpus_ = os.cpus;
 os.cpus = function() {
