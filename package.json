@@ -1,0 +1,19 @@
+{
+  "name": "cpuveil",
+  "version": "0.0.1",
+  "description": "Simple utility helper to limit displayed CPUs in node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cdwv/cpuveil.git"
+  },
+  "author": "grzegorz.daszuta@codewave.pl",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cdwv/cpuveil/issues"
+  },
+  "homepage": "https://github.com/cdwv/cpuveil#readme"
+}
